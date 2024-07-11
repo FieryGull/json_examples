@@ -1,19 +1,19 @@
 [
   {
     "Value": "test_victim1",
-    is_organization: true
+    "is_organization": true
   },
   {
     "Value": "test_victim2",
-    is_organization: false
+    "is_organization": false
   },
   {
     "Value": "test_victim3",
-    is_organization: 1
+    "is_organization": 1
   },
   {
     "Value": "test_victim4",
-    is_organization: 0
+    "is_organization": 0
   },
   {
     "Value": "test_victim5"
