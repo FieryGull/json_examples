@@ -1,0 +1,22 @@
+test,123
+[
+  {
+    "Value": "test_victim11",
+    "is_organization": true
+  },
+  {
+    "Value": "test_victim2",
+    "is_organization": false
+  },
+  {
+    "Value": "test_victim3",
+    "is_organization": 1
+  },
+  {
+    "Value": "test_victim4",
+    "is_organization": 0
+  },
+  {
+    "Value": "test_victim5"
+  }
+]
